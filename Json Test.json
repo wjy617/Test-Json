@@ -14,11 +14,7 @@
     "images": [
       "https://d2za1aptzht3l1.cloudfront.net/assets/logo-551ea1ae3d34727908abb39e4b500460.png"
     ],
-    "lockbox": "123456",
-    "lockbox_instruction": null,
     "market_id": "Columbia",
-    "prelease": false,
-    "active": true,
     "agent_email": "json@email.com",
     "application_url": "https://example.com/apply",
     "available_date": {
